@@ -1,0 +1,21 @@
+{
+    "name": "marketcsgo-steam-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.ts",
+    "author": "@herenickname (github.com/herenickname)",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "boxen": "^5.0.1",
+        "chalk": "^4.1.2",
+        "prompts": "^2.4.1",
+        "rxjs": "^7.3.0",
+        "steam-totp": "^2.1.1",
+        "steam-tradeoffer-manager": "^2.10.3",
+        "steamcommunity": "^3.43.1"
+    },
+    "devDependencies": {
+        "@types/prompts": "^2.0.14"
+    }
+}
